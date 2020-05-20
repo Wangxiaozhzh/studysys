@@ -1,0 +1,166 @@
+[2020-03-17T00:53:57.642] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'wzz', password: '123456' } }
+[2020-03-17T02:09:46.580] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-03-17T02:18:04.135] [INFO] user - { name: 'eric',
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-03-17T02:34:48.144] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-03-16T13:34:48.117Z' } }
+[2020-03-17T13:44:39.712] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-03-17T13:45:03.982] [INFO] user - { name: 'eric',
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-03-17T13:47:01.851] [INFO] user - { name: 'eric',
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-03-17T13:47:03.861] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-03-17T00:47:03.838Z' } }
+[2020-03-17T13:54:02.731] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-03-17T00:54:02.702Z' } }
+[2020-03-17T13:56:48.510] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-03-17T00:56:48.487Z' } }
+[2020-03-17T13:57:12.613] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-03-17T00:57:12.574Z' } }
+[2020-03-17T13:57:20.532] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-03-17T00:57:20.511Z' } }
+[2020-03-17T14:21:03.748] [INFO] user - { name: 'eric',
+  url: '/stu/stuLogin',
+  body: { name: 'glad', password: '123456' } }
+[2020-03-17T14:24:49.429] [INFO] user - { name: 'glad',
+  url: '/stu/stuLogin',
+  body: { name: 'glad', password: '123456' } }
+[2020-03-17T14:26:24.472] [INFO] user - { name: 'glad',
+  url: '/stu/stuLogin',
+  body: { name: 'glad', password: '123456' } }
+[2020-03-17T14:27:29.106] [INFO] user - { name: 'glad',
+  url: '/stu/stuLogin',
+  body: { name: 'glad', password: '123456' } }
+[2020-03-17T14:28:04.619] [INFO] user - { name: 'glad',
+  url: '/stu/stuLogin',
+  body: { name: 'glad', password: '123456' } }
+[2020-03-17T14:29:08.481] [INFO] user - { name: 'glad',
+  url: '/stu/stuLogin',
+  body: { name: 'glad', password: '123456' } }
+[2020-03-17T14:29:30.064] [INFO] user - { name: 'glad',
+  url: '/stu/stuLogin',
+  body: { name: 'glad', password: '123456' } }
+[2020-03-17T14:31:00.813] [INFO] user - { name: 'glad',
+  url: '/teacher/teaLogin',
+  body: { name: 'glad', password: '123456' } }
+[2020-03-17T14:56:44.239] [INFO] user - { name: 'glad',
+  url: '/teacher/teaLogin',
+  body: { name: 'glad', password: '123456' } }
+[2020-03-17T14:58:08.922] [INFO] user - { name: 'glad',
+  url: '/teacher/teaLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-03-17T14:58:14.075] [INFO] user - { name: 'glad',
+  url: '/teacher/teaLogin',
+  body: { name: 'glad', password: '123456' } }
+[2020-03-17T15:00:05.859] [INFO] user - { name: 'glad',
+  url: '/teacher/teaLogin',
+  body: { name: 'glad', password: '123456' } }
+[2020-03-17T15:01:09.570] [INFO] user - { name: 'glad',
+  url: '/teacher/teaLogin',
+  body: { name: 'glad', password: '123456' } }
+[2020-03-17T15:07:19.145] [INFO] user - { name: 'glad',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-03-17T02:07:19.103Z' } }
+[2020-03-17T15:07:23.221] [INFO] user - { name: 'glad',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-03-01T00:00:00.000Z' } }
+[2020-03-17T15:07:26.853] [INFO] user - { name: 'glad',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-03-01T00:00:00.000Z' } }
+[2020-03-17T16:06:55.875] [INFO] user - { name: undefined,
+  url: '/teacher/teaLogin',
+  body: { name: 'admin', password: '123456' } }
+[2020-03-17T17:17:55.621] [INFO] user - { name: undefined,
+  url: '/teacher/teaLogin',
+  body: { name: 'glad', password: '123456' } }
+[2020-03-17T18:25:53.512] [INFO] user - { name: undefined,
+  url: '/teacher/teaLogin',
+  body: { name: 'glad', password: '123456' } }
+[2020-03-17T19:26:30.716] [INFO] user - { name: undefined,
+  url: '/teacher/teaLogin',
+  body: { name: 'glad', password: '123456' } }
+[2020-03-17T20:30:41.331] [INFO] user - { name: undefined,
+  url: '/teacher/teaLogin',
+  body: { name: 'glad', password: '123456' } }
+[2020-03-17T20:36:21.055] [INFO] user - { name: 'glad',
+  url: '/teacher/editPassword',
+  body: { oldPassword: '123456', newPassword: 'admin' } }
+[2020-03-17T20:38:55.841] [INFO] user - { name: 'glad',
+  url: '/teacher/editPassword',
+  body: { oldPassword: '1', newPassword: '2' } }
+[2020-03-17T20:43:18.178] [INFO] user - { name: 'glad',
+  url: '/teacher/editPassword',
+  body: { oldPassword: 'admin', newPassword: '123456' } }
+[2020-03-17T20:43:35.909] [INFO] user - { name: 'glad',
+  url: '/teacher/teaLogin',
+  body: { name: 'glad', password: '123456' } }
+[2020-03-17T20:43:51.190] [INFO] user - { name: 'glad',
+  url: '/teacher/editPassword',
+  body: { oldPassword: '123456', newPassword: 'admin' } }
+[2020-03-17T20:44:58.429] [INFO] user - { name: 'glad',
+  url: '/teacher/teaLogin',
+  body: { name: 'glad', password: 'admin' } }
+[2020-03-17T20:49:33.754] [INFO] user - { name: 'glad',
+  url: '/teacher/teaLogin',
+  body: { name: 'glad', password: 'admin' } }
+[2020-03-17T20:50:56.893] [INFO] user - { name: 'glad',
+  url: '/teacher/teaLogin',
+  body: { name: 'admin', password: '123456' } }
+[2020-03-17T20:52:33.575] [INFO] user - { name: 'admin',
+  url: '/teacher/teaLogin',
+  body: { name: 'glad', password: '123456' } }
+[2020-03-17T20:52:38.431] [INFO] user - { name: 'admin',
+  url: '/teacher/teaLogin',
+  body: { name: 'glad', password: 'admin' } }
+[2020-03-17T20:58:06.141] [INFO] user - { name: 'glad',
+  url: '/teacher/teaLogin',
+  body: { name: 'glad', password: 'admin' } }
+[2020-03-17T20:58:20.899] [INFO] user - { name: 'glad',
+  url: '/teacher/teaLogin',
+  body: { name: 'glad', password: 'admin' } }
+[2020-03-17T20:58:43.744] [INFO] user - { name: 'glad',
+  url: '/teacher/teaLogin',
+  body: { name: 'admin', password: '1234456' } }
+[2020-03-17T20:58:47.060] [INFO] user - { name: 'glad',
+  url: '/teacher/teaLogin',
+  body: { name: 'admin', password: 'admin' } }
+[2020-03-17T20:58:53.786] [INFO] user - { name: 'glad',
+  url: '/teacher/teaLogin',
+  body: { name: 'glad', password: 'admin' } }
+[2020-03-17T21:06:17.577] [INFO] user - { name: 'glad',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-03-17T08:06:17.548Z' } }
+[2020-03-17T21:23:06.851] [INFO] user - { name: 'glad',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-03-17T08:23:06.827Z' } }
+[2020-03-17T21:23:08.566] [INFO] user - { name: 'glad',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-03-18T08:23:06.683Z' } }
+[2020-03-17T21:23:19.128] [INFO] user - { name: 'glad',
+  url: '/inter/addInterview',
+  body:
+   { student_id: 53,
+     interview_date: '2020-03-18T08:23:09.615Z',
+     interview_type: '测试',
+     remarks: '21212' } }
+[2020-03-17T21:23:19.172] [INFO] user - { name: 'glad',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-03-01T00:00:00.000Z' } }
+[2020-03-17T22:02:14.798] [INFO] user - { name: undefined,
+  url: '/teacher/teaLogin',
+  body: { name: 'glad', password: 'admin' } }

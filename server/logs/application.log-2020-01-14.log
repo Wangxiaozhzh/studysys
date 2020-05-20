@@ -1,0 +1,242 @@
+[2020-01-14T19:49:29.603] [ERROR] application - TypeError: query is not a function
+    at Object.getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/course.js:6:22)
+    at Object.getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/course.js:6:34)
+    at getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:7:39)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-01-14T19:50:43.930] [ERROR] application - TypeError: query is not a function
+    at Object.getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/course.js:6:22)
+    at Object.getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/course.js:6:34)
+    at getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:7:39)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-01-14T19:53:33.005] [ERROR] application - TypeError: query is not a function
+    at Object.getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/course.js:6:22)
+    at Object.getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/course.js:6:34)
+    at getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:8:39)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-01-14T19:57:16.623] [ERROR] application - TypeError: query is not a function
+    at Object.getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/course.js:9:22)
+    at Object.getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/course.js:6:34)
+    at getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:8:39)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-01-14T20:04:59.186] [ERROR] application - TypeError: query is not a function
+    at Object.getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/course.js:9:22)
+    at Object.getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/course.js:6:34)
+    at getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:8:39)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-01-14T20:05:03.187] [ERROR] application - TypeError: query is not a function
+    at Object.getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/course.js:9:22)
+    at Object.getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/course.js:6:34)
+    at getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:8:39)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-01-14T20:06:23.953] [ERROR] application - TypeError: query is not a function
+    at Object.getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/course.js:9:22)
+    at Object.getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/course.js:6:34)
+    at getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:8:39)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-01-14T20:06:28.262] [ERROR] application - TypeError: query is not a function
+    at Object.getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/course.js:9:22)
+    at Object.getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/course.js:6:34)
+    at getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:8:39)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-01-14T20:06:43.905] [ERROR] application - TypeError: query is not a function
+    at Object.getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/course.js:9:22)
+    at Object.getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/course.js:6:34)
+    at getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:8:39)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-01-14T20:11:17.905] [ERROR] application - TypeError: query is not a function
+    at Object.getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/course.js:9:22)
+    at Object.getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/course.js:6:34)
+    at getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:8:39)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-01-14T20:12:41.085] [ERROR] application - TypeError: query is not a function
+    at Object.getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/course.js:9:22)
+    at Object.getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/course.js:6:34)
+    at getCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:8:39)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-01-14T20:19:58.070] [ERROR] application - TypeError: query is not a function
+    at Object.findAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/course.js:10:16)
+    at Object.getAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/course.js:8:33)
+    at getAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:10:36)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-01-14T20:21:17.796] [ERROR] application - TypeError: query is not a function
+    at Object.findAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/course.js:10:16)
+    at Object.getAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/course.js:8:33)
+    at getAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:10:36)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-01-14T20:23:05.443] [ERROR] application - TypeError: query is not a function
+    at Object.findAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/course.js:10:16)
+    at Object.getAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/course.js:8:33)
+    at getAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:10:36)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-01-14T20:23:22.658] [ERROR] application - TypeError: query is not a function
+    at Object.findAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/course.js:10:16)
+    at Object.getAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/course.js:8:33)
+    at getAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:10:36)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-01-14T20:26:40.976] [ERROR] application - TypeError: query is not a function
+    at Object.findAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/course.js:10:16)
+    at Object.getAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/course.js:8:33)
+    at getAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:10:36)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-01-14T20:26:42.212] [ERROR] application - TypeError: query is not a function
+    at Object.findAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/course.js:10:16)
+    at Object.getAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/course.js:8:33)
+    at getAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:10:36)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-01-14T20:27:58.529] [ERROR] application - TypeError: query is not a function
+    at Object.findAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/course.js:10:16)
+    at Object.getAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/course.js:8:33)
+    at getAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:10:36)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-01-14T20:27:59.750] [ERROR] application - TypeError: query is not a function
+    at Object.findAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/course.js:10:16)
+    at Object.getAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/course.js:8:33)
+    at getAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:10:36)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-01-14T20:28:14.133] [ERROR] application - TypeError: query is not a function
+    at Object.findAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/course.js:10:16)
+    at Object.getAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/course.js:8:33)
+    at getAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:10:36)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-01-14T20:32:00.177] [ERROR] application - TypeError: query is not a function
+    at Object.findAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/course.js:10:16)
+    at Object.getAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/course.js:8:33)
+    at getAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:10:36)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-01-14T20:39:17.680] [ERROR] application - TypeError: query is not a function
+    at Object.findAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/course.js:10:16)
+    at Object.getAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/course.js:8:33)
+    at getAllCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:10:36)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)

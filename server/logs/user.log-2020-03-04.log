@@ -1,0 +1,15 @@
+[2020-03-04T21:05:31.181] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-03-04T22:09:35.135] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-03-04T22:23:29.003] [INFO] user - { name: 'eric',
+  url: '/stu/stuLogin',
+  body: { name: 'eric11', password: '123456' } }
+[2020-03-04T22:24:17.495] [INFO] user - { name: 'eric',
+  url: '/stu/stuLogin',
+  body: { name: 'eric11', password: '123456' } }
+[2020-03-04T22:24:28.454] [INFO] user - { name: 'eric',
+  url: '/stu/stuLogin',
+  body: { name: 'eric11', password: '123456' } }

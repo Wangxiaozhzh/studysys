@@ -1,0 +1,158 @@
+[2020-03-10T20:35:23.904] [ERROR] application - ReferenceError: id is not defined
+    at addCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:40:56)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-03-10T20:38:00.350] [ERROR] application - ReferenceError: id is not defined
+    at addCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:40:56)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-03-10T20:45:25.899] [ERROR] application - ReferenceError: id is not defined
+    at addCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:40:56)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-03-10T20:46:04.462] [ERROR] application - ReferenceError: name is not defined
+    at addCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:34:22)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+    at exports.userWatcher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/middleware/logger.js:54:9)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-03-10T20:46:07.611] [ERROR] application - ReferenceError: name is not defined
+    at addCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:34:22)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+    at exports.userWatcher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/middleware/logger.js:54:9)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-03-10T20:50:50.120] [ERROR] application - ReferenceError: name is not defined
+    at addCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:34:22)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+    at exports.userWatcher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/middleware/logger.js:54:9)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-03-10T23:00:46.062] [ERROR] application - ReferenceError: name is not defined
+    at addCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:34:22)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+    at exports.userWatcher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/middleware/logger.js:54:9)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-03-10T23:02:41.948] [ERROR] application - ReferenceError: name is not defined
+    at addCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:34:22)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+    at exports.userWatcher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/middleware/logger.js:54:9)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-03-10T23:02:46.586] [ERROR] application - ReferenceError: name is not defined
+    at addCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:34:22)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+    at exports.userWatcher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/middleware/logger.js:54:9)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-03-10T23:02:47.257] [ERROR] application - ReferenceError: name is not defined
+    at addCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:34:22)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+    at exports.userWatcher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/middleware/logger.js:54:9)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-03-10T23:03:16.194] [ERROR] application - ReferenceError: name is not defined
+    at addCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:34:22)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+    at exports.userWatcher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/middleware/logger.js:54:9)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-03-10T23:06:58.682] [ERROR] application - ReferenceError: name is not defined
+    at addCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:34:22)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+    at exports.userWatcher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/middleware/logger.js:54:9)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-03-10T23:09:01.164] [ERROR] application - ReferenceError: name is not defined
+    at addCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:35:22)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+    at exports.userWatcher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/middleware/logger.js:54:9)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2020-03-10T23:09:17.030] [ERROR] application - ReferenceError: id is not defined
+    at addCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:42:56)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-03-10T23:09:39.788] [ERROR] application - ReferenceError: hah is not defined
+    at addCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:42:15)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-03-10T23:09:52.067] [ERROR] application - ReferenceError: hah is not defined
+    at addCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:42:15)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-03-10T23:09:55.531] [ERROR] application - ReferenceError: hah is not defined
+    at addCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:42:15)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-03-10T23:10:33.748] [ERROR] application - ReferenceError: hah is not defined
+    at addCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:42:15)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-03-10T23:13:19.361] [ERROR] application - ReferenceError: hah is not defined
+    at addCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:42:15)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-03-10T23:13:24.396] [ERROR] application - ReferenceError: hah is not defined
+    at addCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:42:15)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-03-10T23:17:16.619] [ERROR] application - ReferenceError: hah is not defined
+    at addCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:43:15)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-03-10T23:17:32.258] [ERROR] application - ReferenceError: hah is not defined
+    at addCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:43:15)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-03-10T23:23:54.355] [ERROR] application - ReferenceError: hah is not defined
+    at addCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:43:15)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-03-10T23:25:38.510] [ERROR] application - ReferenceError: hah is not defined
+    at addCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:41:15)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-03-10T23:29:33.666] [ERROR] application - ReferenceError: hah is not defined
+    at addCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:41:15)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-03-10T23:30:16.827] [ERROR] application - ReferenceError: hah is not defined
+    at addCourseType (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/course.js:43:15)
+    at process._tickCallback (internal/process/next_tick.js:68:7)

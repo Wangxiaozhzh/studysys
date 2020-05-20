@@ -1,0 +1,1131 @@
+[2020-01-10T01:20:08.094] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'admin', password: '123456' } }
+[2020-01-10T01:20:11.883] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'admin1234', password: '123456' } }
+[2020-01-10T01:20:19.879] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'wzz123', password: '123456' } }
+[2020-01-10T01:20:35.702] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'test', password: '123456' } }
+[2020-01-10T02:26:25.102] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'test', password: '123456' } }
+[2020-01-10T02:43:05.816] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin11',
+     student_type: '开发',
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T02:45:14.901] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin11',
+     student_type: '开发',
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T03:02:18.381] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin11',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T03:03:22.195] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin11',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T03:03:28.995] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T03:05:39.346] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin123',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T03:05:49.178] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin123',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T03:06:00.982] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T03:06:16.812] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T03:12:03.326] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T03:12:36.711] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T03:12:57.926] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T03:14:22.976] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T03:14:49.591] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin12',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T03:16:44.878] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin12',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T03:25:45.681] [INFO] user - { name: 'test',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'hahah',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰' } }
+[2020-01-10T18:47:33.575] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'wzz', password: 'admin' } }
+[2020-01-10T18:47:38.229] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'wzz', password: '123456' } }
+[2020-01-10T18:47:41.686] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'admin', password: '123456' } }
+[2020-01-10T18:47:46.772] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'test', password: '123456' } }
+[2020-01-10T18:48:00.571] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T18:49:03.855] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T18:49:46.210] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T18:50:33.746] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T18:51:02.020] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T18:53:53.173] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T18:54:12.310] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T18:58:52.458] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T19:00:25.143] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T19:00:41.513] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T19:01:05.652] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin123',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T19:01:48.480] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin123',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T19:31:30.636] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin12',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T19:32:06.022] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin12',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T19:32:39.446] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin12',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T19:35:44.438] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T19:36:03.045] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T19:36:41.634] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin1',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T19:40:29.788] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T19:40:40.534] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T19:41:10.158] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T19:41:49.957] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T19:44:19.737] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T19:44:24.140] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T19:45:29.986] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T19:45:37.666] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T19:51:25.156] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'admin', password: '123456' } }
+[2020-01-10T19:59:55.271] [INFO] user - { name: 'admin',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T20:00:01.787] [INFO] user - { name: 'admin',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T20:00:22.616] [INFO] user - { name: 'admin',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T20:00:33.185] [INFO] user - { name: 'admin',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T20:01:26.605] [INFO] user - { name: 'admin',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T20:01:36.262] [INFO] user - { name: 'admin',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T20:13:11.896] [INFO] user - { name: 'admin',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T20:14:45.866] [INFO] user - { name: 'admin',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T20:15:41.387] [INFO] user - { name: 'admin',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T20:20:57.277] [INFO] user - { name: 'admin',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T20:21:17.561] [INFO] user - { name: 'admin',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T20:22:07.161] [INFO] user - { name: 'admin',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T20:22:19.624] [INFO] user - { name: 'admin',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'admin',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '1' } }
+[2020-01-10T20:22:29.650] [INFO] user - { name: 'admin',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'hahah',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '14' } }
+[2020-01-10T20:22:55.027] [INFO] user - { name: 'admin',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'glad',
+     student_type: 1,
+     course_id: 1,
+     adress: '国内' } }
+[2020-01-10T20:29:01.903] [INFO] user - { name: 'admin',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'glad1',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰' } }
+[2020-01-10T20:29:12.384] [INFO] user - { name: 'admin',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'glad2',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰' } }
+[2020-01-10T20:30:01.480] [INFO] user - { name: 'admin',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'glad3',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰' } }
+[2020-01-10T20:31:25.424] [INFO] user - { name: 'admin',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'glad',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰' } }
+[2020-01-10T20:31:39.915] [INFO] user - { name: 'admin',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'glad1',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰' } }
+[2020-01-10T20:31:59.347] [INFO] user - { name: 'admin',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'glad1',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰' } }
+[2020-01-10T20:32:14.537] [INFO] user - { name: 'admin',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'glad',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰' } }
+[2020-01-10T20:32:18.041] [INFO] user - { name: 'admin',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'glad3',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰' } }
+[2020-01-10T20:33:35.789] [INFO] user - { name: 'admin',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'gald1',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰' } }
+[2020-01-10T20:33:44.518] [INFO] user - { name: 'admin',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'glad2',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰' } }
+[2020-01-10T20:37:37.362] [INFO] user - { name: 'admin',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'glad',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰' } }
+[2020-01-10T20:37:44.703] [INFO] user - { name: 'admin',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'glad',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰' } }
+[2020-01-10T20:39:42.511] [INFO] user - { name: 'admin',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'glad',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰' } }
+[2020-01-10T20:39:53.258] [INFO] user - { name: 'admin',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'glad1',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰' } }
+[2020-01-10T20:40:09.600] [INFO] user - { name: 'admin',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad1',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T20:40:25.225] [INFO] user - { name: 'admin',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad21212',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T20:41:26.020] [INFO] user - { name: 'admin',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad1',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T20:42:05.611] [INFO] user - { name: 'admin',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad12',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T20:44:31.319] [INFO] user - { name: 'admin',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad12',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T20:44:39.339] [INFO] user - { name: 'admin',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad12',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T20:44:47.550] [INFO] user - { name: 'admin',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad123',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T20:46:07.772] [INFO] user - { name: 'admin',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad122',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T20:47:02.919] [INFO] user - { name: 'admin',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad122',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T20:47:41.501] [INFO] user - { name: 'admin',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad122',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T20:48:35.091] [INFO] user - { name: 'admin',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad1223',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T20:50:26.473] [INFO] user - { name: 'admin',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad1223',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T20:52:09.765] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'test', password: '123456' } }
+[2020-01-10T20:52:30.450] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad1223',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T20:53:16.996] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad122',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T20:53:53.263] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad122',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T20:54:02.121] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad122',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T20:54:50.374] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad122',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T20:55:29.596] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad122',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T20:56:25.315] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad122',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T20:59:04.127] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad122',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:00:25.383] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:00:32.321] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad234',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:01:05.702] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad234',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:02:43.724] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad234',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:04:19.463] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad234',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:06:18.666] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad234',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:06:22.453] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad2342',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:06:44.185] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:06:57.655] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:07:03.146] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad1',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:07:15.023] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad1',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:08:49.285] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad1',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:08:55.602] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad1',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:09:07.755] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad1',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:10:08.554] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad1',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:10:18.590] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad1',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:10:50.829] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad1',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:11:02.021] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad1',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:12:04.027] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:14:44.320] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:15:58.197] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad1',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:15:59.162] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad1',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:16:00.489] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad1',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:16:01.146] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad1',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:16:20.297] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad1',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:16:34.411] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad1',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:16:35.637] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad1',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:16:36.556] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad1',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:16:42.324] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad12',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:17:22.936] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad1',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:17:29.276] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad12',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '27' } }
+[2020-01-10T21:18:08.017] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad21212',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '26' } }
+[2020-01-10T21:18:20.230] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad21212',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '26' } }
+[2020-01-10T21:18:51.170] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad21212',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '26' } }
+[2020-01-10T21:18:56.429] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad21212',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '26' } }
+[2020-01-10T21:19:05.783] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '26' } }
+[2020-01-10T21:19:10.368] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '26' } }
+[2020-01-10T21:19:22.423] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad',
+     student_type: 2,
+     course_id: 1,
+     adress: '国内',
+     student_id: '26' } }
+[2020-01-10T21:19:58.521] [INFO] user - { name: 'test',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'eric',
+     student_type: 1,
+     course_id: 1,
+     adress: '澳洲' } }
+[2020-01-10T21:20:11.442] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'eric1',
+     student_type: 2,
+     course_id: 1,
+     adress: '澳洲',
+     student_id: '28' } }
+[2020-01-10T21:21:13.478] [INFO] user - { name: 'test',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'glas',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰' } }
+[2020-01-10T21:22:37.089] [INFO] user - { name: 'test',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'wangzhzh',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰' } }
+[2020-01-10T21:22:40.586] [INFO] user - { name: 'test',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'wangzhzh1',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰' } }
+[2020-01-10T21:23:00.461] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'wangzhzh1',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '30' } }
+[2020-01-10T21:28:22.919] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'wangzhzh1',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '30' } }
+[2020-01-10T21:28:45.323] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'wangzhzh',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰',
+     student_id: '30' } }
+[2020-01-10T21:46:37.318] [INFO] user - { name: 'test',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'glad',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰' } }
+[2020-01-10T21:46:51.400] [INFO] user - { name: 'test',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'eric',
+     student_type: 1,
+     course_id: 1,
+     adress: '澳洲' } }
+[2020-01-10T21:47:04.102] [INFO] user - { name: 'test',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad',
+     student_type: 2,
+     course_id: 1,
+     adress: '国内',
+     student_id: '31' } }

@@ -1,0 +1,6 @@
+[2020-01-20T15:04:06.916] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-01-20T18:45:12.788] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }

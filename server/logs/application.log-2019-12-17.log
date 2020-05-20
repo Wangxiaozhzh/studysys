@@ -1,0 +1,403 @@
+[2019-12-17T18:58:18.623] [ERROR] application - ReferenceError: ctx is not defined
+    at stuLogin (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:19:18)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+    at exports.userWatcher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/middleware/logger.js:54:9)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2019-12-17T18:59:13.158] [ERROR] application - ReferenceError: ctx is not defined
+    at stuLogin (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:19:18)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+    at exports.userWatcher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/middleware/logger.js:54:9)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2019-12-17T18:59:40.987] [ERROR] application - ReferenceError: ctx is not defined
+    at stuLogin (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:19:18)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+    at exports.userWatcher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/middleware/logger.js:54:9)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2019-12-17T18:59:53.391] [ERROR] application - ReferenceError: ctx is not defined
+    at stuLogin (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:19:18)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+    at exports.userWatcher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/middleware/logger.js:54:9)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2019-12-17T19:00:05.145] [ERROR] application - ReferenceError: ctx is not defined
+    at stuLogin (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:19:18)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+    at exports.userWatcher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/middleware/logger.js:54:9)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2019-12-17T19:42:18.845] [ERROR] application - ReferenceError: ctx is not defined
+    at stuLogin (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:19:18)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+    at exports.userWatcher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/middleware/logger.js:54:9)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2019-12-17T19:42:34.446] [ERROR] application - ReferenceError: ctx is not defined
+    at stuLogin (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:19:18)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+    at exports.userWatcher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/middleware/logger.js:54:9)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2019-12-17T19:43:15.914] [ERROR] application - ReferenceError: ctx is not defined
+    at stuLogin (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:19:18)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+    at exports.userWatcher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/middleware/logger.js:54:9)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2019-12-17T19:43:35.375] [ERROR] application - ReferenceError: ctx is not defined
+    at stuLogin (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:19:18)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+    at exports.userWatcher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/middleware/logger.js:54:9)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2019-12-17T19:44:18.530] [ERROR] application - ReferenceError: ctx is not defined
+    at stuLogin (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:19:18)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+    at exports.userWatcher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/middleware/logger.js:54:9)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2019-12-17T19:44:42.907] [ERROR] application - ReferenceError: _sql is not defined
+    at Object.stuLogin (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:16:22)
+    at Object.stuLogin (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:12:31)
+    at stuLogin (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:27:35)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2019-12-17T19:45:58.912] [ERROR] application - ReferenceError: _sql is not defined
+    at Object.stuLogin (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:16:22)
+    at Object.stuLogin (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:13:31)
+    at stuLogin (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:27:35)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2019-12-17T19:46:43.040] [ERROR] application - ReferenceError: _sql is not defined
+    at Object.stuLogin (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:17:22)
+    at Object.stuLogin (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:13:31)
+    at stuLogin (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:27:35)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2019-12-17T19:47:32.427] [ERROR] application - ReferenceError: _sql is not defined
+    at Object.stuLogin (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:17:22)
+    at Object.stuLogin (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:13:31)
+    at stuLogin (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:27:35)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2019-12-17T19:50:41.878] [ERROR] application - ReferenceError: _sql is not defined
+    at Object.stuLogin (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:17:22)
+    at Object.stuLogin (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:13:31)
+    at stuLogin (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:28:35)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2019-12-17T19:51:44.076] [ERROR] application - ReferenceError: _sql is not defined
+    at Object.stuLogin (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:17:22)
+    at Object.stuLogin (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:13:31)
+    at stuLogin (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:28:35)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+[2019-12-17T21:02:25.333] [ERROR] application - TypeError: Cannot read property 'student_name' of undefined
+    at addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:61:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-12-17T21:02:59.421] [ERROR] application - TypeError: Cannot read property 'student_name' of undefined
+    at addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:61:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-12-17T21:03:32.142] [ERROR] application - TypeError: Cannot read property 'student_name' of undefined
+    at addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:61:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-12-17T21:03:56.005] [ERROR] application - TypeError: Cannot read property 'student_name' of undefined
+    at addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:61:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-12-17T21:04:20.944] [ERROR] application - TypeError: Cannot read property 'student_name' of undefined
+    at addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:61:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-12-17T21:04:28.132] [ERROR] application - TypeError: Cannot read property 'student_name' of undefined
+    at addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:61:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-12-17T21:04:53.260] [ERROR] application - TypeError: Cannot read property 'student_name' of undefined
+    at addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:61:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-12-17T21:06:31.569] [ERROR] application - TypeError: Cannot read property 'student_name' of undefined
+    at addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:61:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-12-17T21:24:37.406] [ERROR] application - { Error: ER_TRUNCATED_WRONG_VALUE: Truncated incorrect DOUBLE value: '新西兰'
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:36:16)
+    at Object.updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:28:31)
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:85:35)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+  code: 'ER_TRUNCATED_WRONG_VALUE',
+  errno: 1292,
+  sqlMessage: 'Truncated incorrect DOUBLE value: \'新西兰\'',
+  sqlState: '22007',
+  index: 0,
+  sql:
+   'update student set student_name=\'wzz\',course_id=\'2\',update_date=now(),adress=\'1\' where student_id=\'新西兰\'' }
+[2019-12-17T21:25:28.260] [ERROR] application - { Error: ER_TRUNCATED_WRONG_VALUE: Truncated incorrect DOUBLE value: '新西兰'
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:36:16)
+    at Object.updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:28:31)
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:85:35)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+  code: 'ER_TRUNCATED_WRONG_VALUE',
+  errno: 1292,
+  sqlMessage: 'Truncated incorrect DOUBLE value: \'新西兰\'',
+  sqlState: '22007',
+  index: 0,
+  sql:
+   'update student set student_name=\'wzz\',course_id=\'2\',update_date=now(),adress=\'1\' where student_id=\'新西兰\'' }
+[2019-12-17T21:25:46.130] [ERROR] application - { Error: ER_TRUNCATED_WRONG_VALUE: Truncated incorrect DOUBLE value: '新西兰'
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:36:16)
+    at Object.updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:28:31)
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:86:35)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+  code: 'ER_TRUNCATED_WRONG_VALUE',
+  errno: 1292,
+  sqlMessage: 'Truncated incorrect DOUBLE value: \'新西兰\'',
+  sqlState: '22007',
+  index: 0,
+  sql:
+   'update student set student_name=\'wzz\',course_id=\'2\',update_date=now(),adress=\'1\' where student_id=\'新西兰\'' }
+[2019-12-17T21:26:03.590] [ERROR] application - { Error: ER_TRUNCATED_WRONG_VALUE: Truncated incorrect DOUBLE value: '新西兰'
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:36:16)
+    at Object.updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:28:31)
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:86:35)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+  code: 'ER_TRUNCATED_WRONG_VALUE',
+  errno: 1292,
+  sqlMessage: 'Truncated incorrect DOUBLE value: \'新西兰\'',
+  sqlState: '22007',
+  index: 0,
+  sql:
+   'update student set student_name=\'wzz\',course_id=\'2\',update_date=now(),adress=\'1\' where student_id=\'新西兰\'' }
+[2019-12-17T21:26:24.294] [ERROR] application - { Error: ER_TRUNCATED_WRONG_VALUE: Truncated incorrect DOUBLE value: '新西兰'
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:36:16)
+    at Object.updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:28:31)
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:86:35)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+  code: 'ER_TRUNCATED_WRONG_VALUE',
+  errno: 1292,
+  sqlMessage: 'Truncated incorrect DOUBLE value: \'新西兰\'',
+  sqlState: '22007',
+  index: 0,
+  sql:
+   'update student set student_name=\'wzz\',course_id=\'2\',update_date=now(),adress=\'1\' where student_id=\'新西兰\'' }
+[2019-12-17T21:26:58.884] [ERROR] application - { Error: ER_TRUNCATED_WRONG_VALUE: Truncated incorrect DOUBLE value: '新西兰'
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:36:16)
+    at Object.updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:29:31)
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:86:35)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+  code: 'ER_TRUNCATED_WRONG_VALUE',
+  errno: 1292,
+  sqlMessage: 'Truncated incorrect DOUBLE value: \'新西兰\'',
+  sqlState: '22007',
+  index: 0,
+  sql:
+   'update student set student_name=\'wzz\',course_id=\'2\',update_date=now(),adress=\'1\' where student_id=\'新西兰\'' }
+[2019-12-17T21:27:13.332] [ERROR] application - { Error: ER_TRUNCATED_WRONG_VALUE: Truncated incorrect DOUBLE value: '新西兰'
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:37:16)
+    at Object.updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:29:31)
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:86:35)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+  code: 'ER_TRUNCATED_WRONG_VALUE',
+  errno: 1292,
+  sqlMessage: 'Truncated incorrect DOUBLE value: \'新西兰\'',
+  sqlState: '22007',
+  index: 0,
+  sql:
+   'update student set student_name=\'wzz\',course_id=\'2\',update_date=now(),adress=\'1\' where student_id=\'新西兰\'' }

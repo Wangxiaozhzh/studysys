@@ -1,0 +1,78 @@
+[2020-01-10T18:48:00.573] [ERROR] application - TypeError: Cannot read property 'student_id' of undefined
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:109:36)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-01-10T18:49:03.857] [ERROR] application - TypeError: Cannot read property 'student_id' of undefined
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:109:36)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-01-10T18:49:46.211] [ERROR] application - TypeError: Cannot read property 'student_id' of undefined
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:109:36)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-01-10T18:50:33.771] [ERROR] application - TypeError: Cannot read property 'student_id' of undefined
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:109:36)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-01-10T18:51:02.045] [ERROR] application - TypeError: Cannot read property 'student_id' of undefined
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:110:36)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-01-10T19:01:05.654] [ERROR] application - TypeError: Cannot read property 'student_id' of undefined
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:109:36)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-01-10T19:01:48.481] [ERROR] application - TypeError: Cannot read property 'student_id' of undefined
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:109:36)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-01-10T19:31:30.637] [ERROR] application - TypeError: Cannot read property 'student_id' of undefined
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:109:36)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-01-10T19:32:06.045] [ERROR] application - TypeError: Cannot read property 'student_id' of undefined
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:109:36)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-01-10T19:32:39.468] [ERROR] application - TypeError: Cannot read property 'student_id' of undefined
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:111:36)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-01-10T19:36:41.635] [ERROR] application - TypeError: Cannot read property 'student_id' of undefined
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:111:36)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-01-10T20:40:25.227] [ERROR] application - TypeError: Cannot read property 'student_id' of undefined
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:111:36)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-01-10T20:42:05.612] [ERROR] application - TypeError: Cannot read property 'student_id' of undefined
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:111:36)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-01-10T20:44:47.552] [ERROR] application - TypeError: Cannot read property 'student_id' of undefined
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:111:36)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-01-10T20:46:07.775] [ERROR] application - TypeError: Cannot read property 'student_id' of undefined
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:111:36)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-01-10T20:47:02.942] [ERROR] application - TypeError: Cannot read property 'student_id' of undefined
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:112:36)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-01-10T20:48:35.095] [ERROR] application - TypeError: Cannot read property 'student_id' of undefined
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:112:36)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-01-10T20:50:26.495] [ERROR] application - TypeError: Cannot read property 'student_id' of undefined
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:112:38)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-01-10T20:52:30.453] [ERROR] application - TypeError: Cannot read property 'student_id' of undefined
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:111:34)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-01-10T20:56:25.337] [ERROR] application - ReferenceError: conaole is not defined
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:113:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-01-10T20:59:04.130] [ERROR] application - ReferenceError: conaole is not defined
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:113:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-01-10T21:00:32.322] [ERROR] application - TypeError: Cannot read property 'student_id' of undefined
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:109:38)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-01-10T21:01:05.723] [ERROR] application - TypeError: Cannot read property 'student_id' of undefined
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:109:38)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-01-10T21:02:43.748] [ERROR] application - TypeError: Cannot read property 'student_id' of undefined
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:108:38)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-01-10T21:16:42.325] [ERROR] application - TypeError: Cannot read property 'student_id' of undefined
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:108:46)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2020-01-10T21:17:29.278] [ERROR] application - TypeError: Cannot read property 'student_id' of undefined
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:108:46)
+    at process._tickCallback (internal/process/next_tick.js:68:7)

@@ -1,0 +1,154 @@
+[2020-01-17T02:25:51.663] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-01-17T02:32:11.143] [INFO] user - { name: 'eric',
+  url: '/course/addCourse',
+  body:
+   { name: '测试课程02', vid: 'test', homework: '完成课上的练习', type: 1 } }
+[2020-01-17T02:34:35.171] [INFO] user - { name: 'eric',
+  url: '/course/addCourse',
+  body:
+   { name: '测试课程02', vid: 'testvid', homework: '完成课上练习', typeId: 1 } }
+[2020-01-17T02:36:43.934] [INFO] user - { name: 'eric',
+  url: '/course/addCourse',
+  body:
+   { name: '测试课程03',
+     vid: '32398293283dsds',
+     homework: '完成课上练习',
+     typeId: 1 } }
+[2020-01-17T02:43:54.075] [INFO] user - { name: 'eric',
+  url: '/course/addCourse',
+  body:
+   { name: '测试基础02', vid: 'test121', homework: '完成课上练习', typeId: 3 } }
+[2020-01-17T02:46:01.125] [INFO] user - { name: 'eric',
+  url: '/course/addCourse',
+  body:
+   { name: 'ios第2课',
+     vid: 'dhuewehdsd',
+     homework: '完成课上的练习',
+     typeId: '2' } }
+[2020-01-17T02:46:37.791] [INFO] user - { name: 'eric',
+  url: '/course/addCourse',
+  body:
+   { name: 'ios第3课',
+     vid: 'dsdsdsdsdsd',
+     homework: 'dsdsds',
+     typeId: '2' } }
+[2020-01-17T02:48:06.769] [INFO] user - { name: 'eric',
+  url: '/course/addCourse',
+  body:
+   { name: 'web第2课',
+     vid: 'dssdsdsd',
+     homework: 'dsdsds',
+     typeId: '6' } }
+[2020-01-17T02:48:53.395] [INFO] user - { name: 'eric',
+  url: '/course/addCourse',
+  body:
+   { name: 'wewe', vid: 'ewewewe', homework: 'ewewewew', typeId: 3 } }
+[2020-01-17T02:52:22.089] [INFO] user - { name: 'eric',
+  url: '/course/addCourse',
+  body:
+   { name: 'eewewe',
+     vid: 'wewewew',
+     homework: 'ewewewewewe',
+     typeId: 3 } }
+[2020-01-17T02:53:43.973] [INFO] user - { name: 'eric',
+  url: '/course/addCourse',
+  body:
+   { name: '21212', vid: '212121', homework: '2121', typeId: 3 } }
+[2020-01-17T02:55:20.341] [INFO] user - { name: 'eric',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'huipei',
+     student_type: 2,
+     course_id: 1,
+     adress: '国内' } }
+[2020-01-17T02:57:51.572] [INFO] user - { name: 'eric',
+  url: '/course/updateCourseType',
+  body: { id: 2, name: 'ios自动化测试课程' } }
+[2020-01-17T03:03:21.135] [INFO] user - { name: 'eric',
+  url: '/stu/stuLogin',
+  body: { name: 'huipei', password: '123456' } }
+[2020-01-17T19:33:12.283] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'wangzhzh', password: '123456' } }
+[2020-01-17T19:33:19.659] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-01-17T20:34:43.610] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-01-17T20:45:03.333] [INFO] user - { name: 'eric',
+  url: '/course/updateCourse',
+  body:
+   { name: 'ios第2课',
+     vid: 'update11111',
+     homework: '完成课上的练习',
+     typeId: '2',
+     id: '8' } }
+[2020-01-17T20:45:50.906] [INFO] user - { name: 'eric',
+  url: '/course/updateCourse',
+  body:
+   { name: 'ios第2课',
+     vid: 'update11111',
+     homework: '完成课上的练习',
+     typeId: '2',
+     id: '8' } }
+[2020-01-17T20:46:47.681] [INFO] user - { name: 'eric',
+  url: '/course/updateCourse',
+  body:
+   { name: 'ios第2课',
+     vid: 'update111',
+     homework: '完成课上的练习',
+     typeId: '2',
+     id: '8' } }
+[2020-01-17T20:47:35.711] [INFO] user - { name: 'eric',
+  url: '/course/updateCourse',
+  body:
+   { name: 'ios第2课',
+     vid: 'update111',
+     homework: '完成课上的练习',
+     typeId: '2',
+     id: '8' } }
+[2020-01-17T20:48:40.450] [INFO] user - { name: 'eric',
+  url: '/course/updateCourse',
+  body:
+   { name: '测试基础03',
+     vid: 'dskdjsdasndkskd',
+     homework: '完成课上的练习',
+     typeId: '3',
+     id: '11' } }
+[2020-01-17T20:49:01.863] [INFO] user - { name: 'eric',
+  url: '/course/updateCourse',
+  body:
+   { name: '测试基础03',
+     vid: 'dskdjsdasndkskd',
+     homework: '完成课上的练习',
+     typeId: '3',
+     id: '11' } }
+[2020-01-17T20:49:17.748] [INFO] user - { name: 'eric',
+  url: '/course/updateCourse',
+  body:
+   { name: '测试基础03',
+     vid: 'dskdjsdasndkskd',
+     homework: '完成课上的练习',
+     typeId: '3',
+     id: '11' } }
+[2020-01-17T20:49:39.773] [INFO] user - { name: 'eric',
+  url: '/course/updateCourse',
+  body:
+   { name: '测试基础03',
+     vid: 'dskdjsdasndkskd',
+     homework: '完成课上的练习',
+     typeId: '3',
+     id: '11' } }
+[2020-01-17T20:52:04.535] [INFO] user - { name: 'eric',
+  url: '/course/addCourse',
+  body:
+   { name: 'web第3课',
+     vid: 'dsdsdsdsdsd',
+     homework: '完成web第三课作业',
+     typeId: '6' } }
+[2020-01-17T21:41:45.103] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }

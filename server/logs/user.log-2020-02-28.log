@@ -1,0 +1,6 @@
+[2020-02-28T02:20:41.205] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-02-28T02:21:10.298] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-02-27T13:21:10.276Z' } }

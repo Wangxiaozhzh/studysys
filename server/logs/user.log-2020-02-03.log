@@ -1,0 +1,66 @@
+[2020-02-03T20:05:50.810] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-02-03T20:05:53.771] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-02-03T07:05:53.746Z' } }
+[2020-02-03T20:06:53.207] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-02-03T07:06:53.175Z' } }
+[2020-02-03T20:07:02.432] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2019-02-03T07:06:53.016Z' } }
+[2020-02-03T20:07:08.490] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2019-12-03T07:06:53.016Z' } }
+[2020-02-03T20:07:16.649] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-12-03T07:06:53.016Z' } }
+[2020-02-03T20:07:19.482] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-12-04T07:06:53.016Z' } }
+[2020-02-03T20:07:32.009] [INFO] user - { name: 'eric',
+  url: '/inter/addInterview',
+  body:
+   { student_id: 35,
+     interview_date: '2020-02-03T07:07:22.514Z',
+     interview_type: '测试',
+     remarks: 'dsdsd' } }
+[2020-02-03T20:07:32.032] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-12-01T00:00:00.000Z' } }
+[2020-02-03T20:07:37.519] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-02-03T07:07:37.493Z' } }
+[2020-02-03T20:07:46.199] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-02-03T07:07:46.168Z' } }
+[2020-02-03T20:07:47.453] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-02-05T07:07:46.024Z' } }
+[2020-02-03T20:07:54.908] [INFO] user - { name: 'eric',
+  url: '/inter/addInterview',
+  body:
+   { student_id: 35,
+     interview_date: '2020-02-12T07:07:50.463Z',
+     interview_type: 'dsds',
+     remarks: 'sds' } }
+[2020-02-03T20:07:54.918] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-02-01T00:00:00.000Z' } }
+[2020-02-03T20:08:11.262] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-02-12T07:07:46.024Z' } }
+[2020-02-03T20:08:26.484] [INFO] user - { name: 'eric',
+  url: '/inter/addInterview',
+  body:
+   { student_id: 35,
+     interview_date: '2020-02-12T07:08:20.785Z',
+     interview_type: 'weewe',
+     remarks: 'weee' } }
+[2020-02-03T20:08:26.496] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-02-01T00:00:00.000Z' } }
+[2020-02-03T20:31:08.820] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-02-03T07:31:08.802Z' } }

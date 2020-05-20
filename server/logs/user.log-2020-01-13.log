@@ -1,0 +1,28 @@
+[2020-01-13T21:03:27.724] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'wangzhzh', password: '123456' } }
+[2020-01-13T21:03:32.050] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-01-13T21:03:45.508] [INFO] user - { name: 'eric',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad1',
+     student_type: 2,
+     course_id: 1,
+     adress: '国内',
+     student_id: '31' } }
+[2020-01-13T21:05:24.534] [INFO] user - { name: 'eric',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad',
+     student_type: 1,
+     course_id: 1,
+     adress: '国内',
+     student_id: '31' } }
+[2020-01-13T22:07:02.938] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'wzz', password: 'admin' } }
+[2020-01-13T22:07:11.352] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'admin', password: '123456' } }

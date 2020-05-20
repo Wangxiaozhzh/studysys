@@ -1,0 +1,50 @@
+[2020-02-20T18:19:48.654] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-02-20T18:20:12.044] [INFO] user - { name: 'eric',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'huihui',
+     student_type: 2,
+     course_id: 1,
+     adress: '国内',
+     student_id: '36' } }
+[2020-02-20T18:20:48.627] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-02-20T05:20:48.606Z' } }
+[2020-02-20T18:23:08.681] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-02-20T05:23:08.663Z' } }
+[2020-02-20T18:40:02.656] [INFO] user - { name: 'eric',
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-02-20T18:57:40.255] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-02-20T05:57:40.231Z' } }
+[2020-02-20T18:57:44.918] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-02-20T05:57:44.903Z' } }
+[2020-02-20T19:05:44.269] [INFO] user - { name: 'eric',
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-02-20T19:08:05.802] [INFO] user - { name: 'eric',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'test',
+     student_type: 2,
+     course_id: 1,
+     adress: '国内',
+     student_id: '36' } }
+[2020-02-20T19:08:33.423] [INFO] user - { name: 'eric',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'test123',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰' } }
+[2020-02-20T19:09:06.923] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-02-20T06:09:06.886Z' } }
+[2020-02-20T19:09:09.867] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-02-04T06:09:06.742Z' } }

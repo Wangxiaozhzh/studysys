@@ -1,0 +1,351 @@
+[2020-03-12T19:30:27.151] [ERROR] application - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from teacher' at line 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.getAllTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/teacher.js:14:22)
+    at Object.getAllTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/teacher.js:12:35)
+    at getAllTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/teacher.js:53:39)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'from teacher\' at line 1',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,name,type,from teacher' }
+[2020-03-12T19:30:45.579] [ERROR] application - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from teacher' at line 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.getAllTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/teacher.js:14:22)
+    at Object.getAllTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/teacher.js:12:35)
+    at getAllTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/teacher.js:53:39)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'from teacher\' at line 1',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,name,type,from teacher' }
+[2020-03-12T19:31:05.964] [ERROR] application - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from teacher' at line 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.getAllTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/teacher.js:14:22)
+    at Object.getAllTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/teacher.js:12:35)
+    at getAllTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/teacher.js:53:39)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'from teacher\' at line 1',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,name,type,from teacher' }
+[2020-03-12T19:31:33.792] [ERROR] application - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from teacher' at line 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.getAllTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/teacher.js:14:22)
+    at Object.getAllTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/teacher.js:12:35)
+    at getAllTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/teacher.js:54:39)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'from teacher\' at line 1',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,name,type,from teacher' }
+[2020-03-12T19:31:51.526] [ERROR] application - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from teacher' at line 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.getAllTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/teacher.js:14:22)
+    at Object.getAllTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/teacher.js:12:35)
+    at getAllTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/teacher.js:54:39)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'from teacher\' at line 1',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,name,type,from teacher' }
+[2020-03-12T19:32:25.609] [ERROR] application - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from teacher' at line 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.getAllTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/teacher.js:14:22)
+    at Object.getAllTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/teacher.js:12:35)
+    at getAllTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/teacher.js:54:39)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'from teacher\' at line 1',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,name,type,from teacher' }
+[2020-03-12T19:33:37.148] [ERROR] application - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from teacher' at line 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.getAllTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/teacher.js:14:22)
+    at Object.getAllTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/teacher.js:12:35)
+    at getAllTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/teacher.js:53:39)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'from teacher\' at line 1',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,name,type,from teacher' }
+[2020-03-12T19:34:16.733] [ERROR] application - ReferenceError: TeaModel is not defined
+    at Object.getAllTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/teacher.js:12:20)
+    at getAllTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/teacher.js:53:39)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+    at exports.userWatcher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/middleware/logger.js:54:9)
+[2020-03-12T19:34:43.347] [ERROR] application - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from teacher' at line 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.getAllTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/teacher.js:14:22)
+    at Object.getAllTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/teacher.js:12:35)
+    at getAllTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/teacher.js:53:39)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-router/lib/router.js:346:16
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'from teacher\' at line 1',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select id,name,type,from teacher' }
+[2020-03-12T21:55:54.536] [ERROR] application - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'isnert into teacher (name,type) values ('wangzhzh',1)' at line 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.addTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/teacher.js:21:22)
+    at Object.addTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/teacher.js:18:38)
+    at addTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/teacher.js:73:39)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'isnert into teacher (name,type) values (\'wangzhzh\',1)\' at line 1',
+  sqlState: '42000',
+  index: 0,
+  sql: 'isnert into teacher (name,type) values (\'wangzhzh\',1)' }
+[2020-03-12T21:56:30.039] [ERROR] application - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'isnert into teacher (name,type) values ('wangzhzh',1)' at line 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.addTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/teacher.js:21:22)
+    at Object.addTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/teacher.js:18:38)
+    at addTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/teacher.js:74:39)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'isnert into teacher (name,type) values (\'wangzhzh\',1)\' at line 1',
+  sqlState: '42000',
+  index: 0,
+  sql: 'isnert into teacher (name,type) values (\'wangzhzh\',1)' }
+[2020-03-12T21:57:27.975] [ERROR] application - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'isnert into teacher (name,type) values ('hha',1)' at line 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.addTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/teacher.js:22:22)
+    at Object.addTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/teacher.js:18:38)
+    at addTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/teacher.js:74:39)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'isnert into teacher (name,type) values (\'hha\',1)\' at line 1',
+  sqlState: '42000',
+  index: 0,
+  sql: 'isnert into teacher (name,type) values (\'hha\',1)' }
+[2020-03-12T21:57:47.915] [ERROR] application - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'isnert into teacher (name,type) values ('haha',1)' at line 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.addTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/teacher.js:22:22)
+    at Object.addTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/teacher.js:18:38)
+    at addTeacher (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/teacher.js:74:39)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'isnert into teacher (name,type) values (\'haha\',1)\' at line 1',
+  sqlState: '42000',
+  index: 0,
+  sql: 'isnert into teacher (name,type) values (\'haha\',1)' }

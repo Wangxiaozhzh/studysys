@@ -1,0 +1,18 @@
+[2020-05-08T12:59:56.136] [INFO] user - { name: undefined,
+  url: '/teacher/teaLogin',
+  body: { name: 'wangzhzh', password: '123456' } }
+[2020-05-08T13:00:00.824] [INFO] user - { name: undefined,
+  url: '/teacher/teaLogin',
+  body: { name: 'wangzhzh', password: 'admin' } }
+[2020-05-08T13:14:29.885] [INFO] user - { name: 'wangzhzh',
+  url: '/teacher/teaLogin',
+  body: { name: 'wangzhzh', password: 'admin' } }
+[2020-05-08T13:22:03.469] [INFO] user - { name: 'wangzhzh',
+  url: '/teacher/teaLogin',
+  body: { name: 'wangzhzh', password: 'admin' } }
+[2020-05-08T13:26:40.548] [INFO] user - { name: 'wangzhzh',
+  url: '/teacher/teaLogin',
+  body: { name: 'wangzhzh', password: 'admin' } }
+[2020-05-08T13:29:24.572] [INFO] user - { name: 'wangzhzh',
+  url: '/teacher/teaLogin',
+  body: { name: 'wangzhzh', password: 'admin' } }

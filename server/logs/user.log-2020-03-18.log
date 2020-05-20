@@ -1,0 +1,90 @@
+[2020-03-18T01:54:54.755] [INFO] user - { name: undefined,
+  url: '/teacher/teaLogin',
+  body: { name: 'glad', password: 'admin' } }
+[2020-03-18T01:58:50.175] [INFO] user - { name: 'glad',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-03-17T12:58:50.151Z' } }
+[2020-03-18T01:58:51.301] [INFO] user - { name: 'glad',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-03-18T12:58:50.010Z' } }
+[2020-03-18T01:59:03.007] [INFO] user - { name: 'glad',
+  url: '/inter/addInterview',
+  body:
+   { student_id: 55,
+     interview_date: '2020-03-18T12:59:53.864Z',
+     interview_type: 'eweweew',
+     remarks: 'ewewew' } }
+[2020-03-18T01:59:03.065] [INFO] user - { name: 'glad',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-03-01T00:00:00.000Z' } }
+[2020-03-18T01:59:05.139] [INFO] user - { name: 'glad',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-03-19T12:58:50.010Z' } }
+[2020-03-18T01:59:13.980] [INFO] user - { name: 'glad',
+  url: '/inter/addInterview',
+  body:
+   { student_id: 44,
+     interview_date: '2020-03-19T12:59:07.947Z',
+     interview_type: 'eweweewe',
+     remarks: 'ewew' } }
+[2020-03-18T01:59:14.018] [INFO] user - { name: 'glad',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-03-01T00:00:00.000Z' } }
+[2020-03-18T01:59:15.490] [INFO] user - { name: 'glad',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-03-16T12:58:50.010Z' } }
+[2020-03-18T01:59:17.853] [INFO] user - { name: 'glad',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-03-17T12:58:50.010Z' } }
+[2020-03-18T01:59:32.034] [INFO] user - { name: 'glad',
+  url: '/inter/addInterview',
+  body:
+   { student_id: 55,
+     interview_date: '2020-03-17T12:59:20.658Z',
+     interview_type: 'ewewe',
+     remarks: 'ewew' } }
+[2020-03-18T01:59:32.081] [INFO] user - { name: 'glad',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-03-01T00:00:00.000Z' } }
+[2020-03-18T02:00:01.987] [INFO] user - { name: 'glad',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-03-17T13:00:01.968Z' } }
+[2020-03-18T02:10:19.891] [INFO] user - { name: 'glad',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'green',
+     student_type: '2',
+     course_id: 1,
+     adress: '加拿大',
+     student_id: '56' } }
+[2020-03-18T02:11:02.609] [INFO] user - { name: 'glad',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-03-17T13:11:02.582Z' } }
+[2020-03-18T02:12:23.148] [INFO] user - { name: 'glad',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-03-17T13:12:23.132Z' } }
+[2020-03-18T02:12:27.906] [INFO] user - { name: 'glad',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-03-17T13:12:27.892Z' } }
+[2020-03-18T02:12:41.933] [INFO] user - { name: 'glad',
+  url: '/course/addCourseType',
+  body: { name: 'hahhahha' } }
+[2020-03-18T02:12:51.391] [INFO] user - { name: 'glad',
+  url: '/course/updateCourseType',
+  body: { name: 'eennene', id: 28 } }
+[2020-03-18T22:22:59.903] [INFO] user - { name: undefined,
+  url: '/teacher/teaLogin',
+  body: { name: 'glad', password: '123456' } }
+[2020-03-18T22:23:04.051] [INFO] user - { name: undefined,
+  url: '/teacher/teaLogin',
+  body: { name: 'glad', password: 'admin' } }
+[2020-03-18T22:53:53.699] [INFO] user - { name: 'glad',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'xiaohu',
+     student_type: 2,
+     course_id: 1,
+     adress: '国内' } }
+[2020-03-18T23:29:48.136] [INFO] user - { name: undefined,
+  url: '/teacher/teaLogin',
+  body: { name: 'glad', password: 'admin' } }

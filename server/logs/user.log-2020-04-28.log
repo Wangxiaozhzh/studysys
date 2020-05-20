@@ -1,0 +1,35 @@
+[2020-04-28T03:12:16.151] [INFO] user - { name: undefined,
+  url: '/teacher/teaLogin',
+  body: { name: 'wangzhzh', password: 'admin' } }
+[2020-04-28T03:12:23.671] [INFO] user - { name: 'wangzhzh',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-04-27T15:12:23.647Z' } }
+[2020-04-28T03:12:32.067] [INFO] user - { name: 'wangzhzh',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-04-27T15:12:32.047Z' } }
+[2020-04-28T03:13:11.548] [INFO] user - { name: 'wangzhzh',
+  url: '/inter/addInterview',
+  body:
+   { student_id: 64,
+     interview_date: '2020-04-27T15:12:46.525Z',
+     interview_type: '测试',
+     remarks: '北京时间下午6点' } }
+[2020-04-28T03:13:11.599] [INFO] user - { name: 'wangzhzh',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-04-01T00:00:00.000Z' } }
+[2020-04-28T03:13:14.931] [INFO] user - { name: 'wangzhzh',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-04-27T15:13:14.914Z' } }
+[2020-04-28T03:13:16.638] [INFO] user - { name: 'wangzhzh',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-04-28T15:13:14.789Z' } }
+[2020-04-28T03:13:35.460] [INFO] user - { name: 'wangzhzh',
+  url: '/inter/addInterview',
+  body:
+   { student_id: 64,
+     interview_date: '2020-04-28T15:13:20.008Z',
+     interview_type: '测试',
+     remarks: '北京时间下午6点' } }
+[2020-04-28T03:13:35.500] [INFO] user - { name: 'wangzhzh',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-04-01T00:00:00.000Z' } }

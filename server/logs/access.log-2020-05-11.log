@@ -1,0 +1,1 @@
+[2020-05-11T20:37:50.223] [INFO] access - ::1 - - "POST /teacher/teaLogin HTTP/1.1" 200 95 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"

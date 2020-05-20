@@ -1,0 +1,392 @@
+[2019-12-19T22:11:17.780] [ERROR] application - { Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '开发' for column 'student_type' at row 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:22:16)
+    at Object.addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:18:31)
+    at addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:72:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage:
+   'Incorrect integer value: \'开发\' for column \'student_type\' at row 1',
+  sqlState: 'HY000',
+  index: 0,
+  sql:
+   'insert into student (student_name, student_type, course_id, update_date, adress) values (\'wzz\', \'开发\', \'新西兰\', now() ,\'android自动化测试\')' }
+[2019-12-19T22:12:46.639] [ERROR] application - { Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '开发' for column 'student_type' at row 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:22:16)
+    at Object.addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:18:31)
+    at addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:72:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage:
+   'Incorrect integer value: \'开发\' for column \'student_type\' at row 1',
+  sqlState: 'HY000',
+  index: 0,
+  sql:
+   'insert into student (student_name, student_type, course_id, update_date, adress) values (\'wzz\', \'开发\', \'新西兰\', now() ,\'android自动化测试\')' }
+[2019-12-19T22:16:56.671] [ERROR] application - { Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '开发' for column 'student_type' at row 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:22:16)
+    at Object.addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:18:31)
+    at addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:73:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage:
+   'Incorrect integer value: \'开发\' for column \'student_type\' at row 1',
+  sqlState: 'HY000',
+  index: 0,
+  sql:
+   'insert into student (student_name, student_type, course_id, update_date, adress) values (\'wzz\', \'开发\', \'新西兰\', now() ,\'android自动化测试\')' }
+[2019-12-19T22:17:28.901] [ERROR] application - { Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '开发' for column 'student_type' at row 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:22:16)
+    at Object.addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:18:31)
+    at addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:73:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage:
+   'Incorrect integer value: \'开发\' for column \'student_type\' at row 1',
+  sqlState: 'HY000',
+  index: 0,
+  sql:
+   'insert into student (student_name, student_type, course_id, update_date, adress) values (\'wzz\', \'开发\', 1, now() ,\'android自动化测试\')' }
+[2019-12-19T22:18:39.701] [ERROR] application - { Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '开发' for column 'student_type' at row 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:22:16)
+    at Object.addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:18:31)
+    at addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:73:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage:
+   'Incorrect integer value: \'开发\' for column \'student_type\' at row 1',
+  sqlState: 'HY000',
+  index: 0,
+  sql:
+   'insert into student (student_name, student_type, course_id, update_date, adress) values (\'wzz\', \'开发\', 1, now() ,\'android自动化测试\')' }
+[2019-12-19T22:19:17.432] [ERROR] application - { Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '开发' for column 'student_type' at row 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:22:16)
+    at Object.addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:18:31)
+    at addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:73:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage:
+   'Incorrect integer value: \'开发\' for column \'student_type\' at row 1',
+  sqlState: 'HY000',
+  index: 0,
+  sql:
+   'insert into student (student_name, student_type, course_id, update_date, adress) values (\'wzz\', \'开发\', \'1\', now() ,\'android自动化测试\')' }
+[2019-12-19T22:19:29.001] [ERROR] application - { Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '开发' for column 'student_type' at row 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:22:16)
+    at Object.addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:18:31)
+    at addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:73:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage:
+   'Incorrect integer value: \'开发\' for column \'student_type\' at row 1',
+  sqlState: 'HY000',
+  index: 0,
+  sql:
+   'insert into student (student_name, student_type, course_id, update_date, adress) values (\'wzz\', \'开发\', \'1\', now() ,\'android自动化测试\')' }
+[2019-12-19T22:21:14.684] [ERROR] application - { Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '开发' for column 'student_type' at row 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:22:16)
+    at Object.addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:18:31)
+    at addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:73:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage:
+   'Incorrect integer value: \'开发\' for column \'student_type\' at row 1',
+  sqlState: 'HY000',
+  index: 0,
+  sql:
+   'insert into student (student_name, student_type, course_id, update_date, adress) values (\'wzz\', \'开发\', \'1\', now() ,\'android自动化测试\')' }
+[2019-12-19T22:21:48.455] [ERROR] application - { Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '开发' for column 'student_type' at row 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:22:16)
+    at Object.addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:18:31)
+    at addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:73:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage:
+   'Incorrect integer value: \'开发\' for column \'student_type\' at row 1',
+  sqlState: 'HY000',
+  index: 0,
+  sql:
+   'insert into student (student_name, student_type, course_id, update_date, adress) values (\'wzz\', \'开发\', \'1\', now() ,\'android自动化测试\')' }
+[2019-12-19T22:22:12.014] [ERROR] application - { Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '开发' for column 'student_type' at row 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:22:16)
+    at Object.addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:18:31)
+    at addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:74:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage:
+   'Incorrect integer value: \'开发\' for column \'student_type\' at row 1',
+  sqlState: 'HY000',
+  index: 0,
+  sql:
+   'insert into student (student_name, student_type, course_id, update_date, adress) values (\'wzz\', \'开发\', \'1\', now() ,\'android自动化测试\')' }
+[2019-12-19T22:22:43.106] [ERROR] application - { Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '开发' for column 'student_type' at row 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:22:16)
+    at Object.addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:18:31)
+    at addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:74:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage:
+   'Incorrect integer value: \'开发\' for column \'student_type\' at row 1',
+  sqlState: 'HY000',
+  index: 0,
+  sql:
+   'insert into student (student_name, student_type, course_id, update_date, adress) values (\'wzz\', \'开发\', \'1\', now() ,\'android自动化测试\')' }
+[2019-12-19T22:23:19.144] [ERROR] application - { Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '开发' for column 'student_type' at row 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:23:16)
+    at Object.addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:18:31)
+    at addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:74:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage:
+   'Incorrect integer value: \'开发\' for column \'student_type\' at row 1',
+  sqlState: 'HY000',
+  index: 0,
+  sql:
+   'insert into student (student_name, student_type, course_id, update_date, adress) values (\'wzz\', \'开发\', \'1\', now() ,\'android自动化测试\')' }
+[2019-12-19T22:26:10.444] [ERROR] application - { Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '开发' for column 'student_type' at row 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:23:16)
+    at Object.addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:18:31)
+    at addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:74:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage:
+   'Incorrect integer value: \'开发\' for column \'student_type\' at row 1',
+  sqlState: 'HY000',
+  index: 0,
+  sql:
+   'insert into student (student_name, student_type, course_id, update_date, adress) values (\'wzz\', \'开发\', \'1\', now() ,\'新西兰\')' }
+[2019-12-19T22:26:55.992] [ERROR] application - { Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '开发' for column 'student_type' at row 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:23:16)
+    at Object.addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:18:31)
+    at addStudent (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:72:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage:
+   'Incorrect integer value: \'开发\' for column \'student_type\' at row 1',
+  sqlState: 'HY000',
+  index: 0,
+  sql:
+   'insert into student (student_name, student_type, course_id, update_date, adress) values (\'wzz\', \'开发\', \'1\', now() ,\'新西兰\')' }

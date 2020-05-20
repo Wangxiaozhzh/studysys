@@ -1,0 +1,63 @@
+[2020-03-16T00:07:56.891] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-03-16T00:08:03.274] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-03-15T11:08:03.249Z' } }
+[2020-03-16T13:59:39.996] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'wzz', password: '123456' } }
+[2020-03-16T14:01:08.001] [INFO] user - { name: 'wzz',
+  url: '/stu/updateStu',
+  body:
+   { student_name: '铁憨憨',
+     student_type: '2',
+     course_id: 1,
+     adress: '澳洲',
+     student_id: '53' } }
+[2020-03-16T14:46:48.473] [INFO] user - { name: 'wzz',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'rick',
+     student_type: 1,
+     course_id: 1,
+     adress: '澳洲' } }
+[2020-03-16T14:47:14.673] [INFO] user - { name: 'wzz',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'green',
+     student_type: '1',
+     course_id: 1,
+     adress: '加拿大' } }
+[2020-03-16T14:47:29.401] [INFO] user - { name: 'wzz',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'green',
+     student_type: 2,
+     course_id: 1,
+     adress: '加拿大',
+     student_id: '56' } }
+[2020-03-16T16:20:56.605] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-03-16T17:26:00.828] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'wzz', password: '123456' } }
+[2020-03-16T18:28:34.934] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'wzz', password: '123456' } }
+[2020-03-16T19:33:34.998] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-03-16T20:44:43.251] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-03-16T21:47:28.435] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-03-16T22:53:33.304] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'wangzhzh', password: '123456' } }
+[2020-03-16T23:53:50.838] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'wangzhzh', password: '123456' } }

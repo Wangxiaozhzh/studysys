@@ -1,0 +1,116 @@
+[2020-01-14T15:48:03.711] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-01-14T16:08:45.691] [INFO] user - { name: 'eric',
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-01-14T16:09:42.382] [INFO] user - { name: 'eric',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad',
+     student_type: 2,
+     course_id: 1,
+     adress: '国内',
+     student_id: '31' } }
+[2020-01-14T18:20:24.264] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-01-14T18:45:49.264] [INFO] user - { name: 'eric',
+  url: '/stu/updateStu',
+  body:
+   { '{"student_name":"glad1","student_type":2,"course_id":1,"adress":"国内","student_id":"31"}': '' } }
+[2020-01-14T18:45:56.818] [INFO] user - { name: 'eric',
+  url: '/stu/updateStu',
+  body:
+   { '{"student_name":"glad1","student_type":2,"course_id":1,"adress":"国内","student_id":"31"}': '' } }
+[2020-01-14T18:46:31.328] [INFO] user - { name: 'eric',
+  url: '/stu/updateStu',
+  body:
+   { '{"student_name":"glad1","student_type":2,"course_id":1,"adress":"国内","student_id":"31"}': '' } }
+[2020-01-14T18:48:57.134] [INFO] user - { name: 'eric',
+  url: '/stu/updateStu',
+  body:
+   { '{"student_name":"glad1","student_type":2,"course_id":1,"adress":"国内","student_id":"31"}': '' } }
+[2020-01-14T18:52:03.237] [INFO] user - { name: 'eric',
+  url: '/stu/updateStu',
+  body:
+   { '{"student_name":"glad1","student_type":2,"course_id":1,"adress":"国内","student_id":"31"}': '' } }
+[2020-01-14T18:54:41.506] [INFO] user - { name: 'eric',
+  url: '/stu/updateStu',
+  body:
+   { '{"student_name":"glad1","student_type":2,"course_id":1,"adress":"国内","student_id":"31"}': '' } }
+[2020-01-14T18:56:26.564] [INFO] user - { name: 'eric',
+  url: '/stu/updateStu',
+  body:
+   { '{"student_name":"glad1","student_type":2,"course_id":1,"adress":"国内","student_id":"31"}': '' } }
+[2020-01-14T18:57:25.398] [INFO] user - { name: 'eric',
+  url: '/stu/updateStu',
+  body:
+   { '{"student_name":"glad1","student_type":2,"course_id":1,"adress":"国内","student_id":"31"}': '' } }
+[2020-01-14T19:01:11.586] [INFO] user - { name: 'eric',
+  url: '/stu/addStudent',
+  body:
+   { '{"student_name":"test","student_type":2,"course_id":1,"adress":"新西兰"}': '' } }
+[2020-01-14T19:03:45.172] [INFO] user - { name: 'eric',
+  url: '/stu/updateStu',
+  body:
+   { '{"student_name":"test","student_type":2,"course_id":1,"adress":"国内","student_id":31}': '' } }
+[2020-01-14T19:39:06.753] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-01-14T19:39:17.354] [INFO] user - { name: 'eric',
+  url: '/stu/updateStu',
+  body:
+   { '{"student_name":"test","student_type":2,"course_id":1,"adress":"国内","student_id":31}': '' } }
+[2020-01-14T19:40:56.213] [INFO] user - { name: 'eric',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'test',
+     student_type: 2,
+     course_id: 1,
+     adress: '国内',
+     student_id: 31 } }
+[2020-01-14T19:42:21.054] [INFO] user - { name: 'eric',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad',
+     student_type: 2,
+     course_id: 1,
+     adress: '国内',
+     student_id: '31' } }
+[2020-01-14T19:42:41.477] [INFO] user - { name: 'eric',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad1',
+     student_type: 2,
+     course_id: 1,
+     adress: '国内',
+     student_id: '31' } }
+[2020-01-14T19:42:49.981] [INFO] user - { name: 'eric',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'glad',
+     student_type: 1,
+     course_id: 1,
+     adress: '国内',
+     student_id: '31' } }
+[2020-01-14T19:43:28.639] [INFO] user - { name: 'eric',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'test',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰' } }
+[2020-01-14T20:31:46.318] [INFO] user - { name: 'eric',
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-01-14T21:19:31.578] [INFO] user - { name: 'eric',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'test',
+     student_type: 2,
+     course_id: 1,
+     adress: '新西兰' } }
+[2020-01-14T21:34:05.990] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }

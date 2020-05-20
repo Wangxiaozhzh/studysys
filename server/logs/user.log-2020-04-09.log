@@ -1,0 +1,17 @@
+[2020-04-09T12:47:07.055] [INFO] user - { name: undefined,
+  url: '/teacher/teaLogin',
+  body: { name: 'wzz', password: 'admin' } }
+[2020-04-09T12:47:15.592] [INFO] user - { name: undefined,
+  url: '/teacher/teaLogin',
+  body: { name: 'glad', password: 'admin' } }
+[2020-04-09T12:47:45.895] [INFO] user - { name: 'glad',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'jenney@student.com',
+     student_type: 1,
+     course_id: '1',
+     adress: '国内',
+     student_id: '64' } }
+[2020-04-09T12:47:55.960] [INFO] user - { name: 'glad',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-04-09T00:47:55.937Z' } }

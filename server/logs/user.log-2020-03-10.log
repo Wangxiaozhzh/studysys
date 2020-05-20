@@ -1,0 +1,378 @@
+[2020-03-10T14:05:20.773] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'admin', password: '123456' } }
+[2020-03-10T14:05:40.908] [INFO] user - { name: 'admin',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'test112121212',
+     student_type: 1,
+     course_id: 1,
+     adress: '澳洲' } }
+[2020-03-10T14:06:21.509] [INFO] user - { name: 'admin',
+  url: '/stu/updateStu',
+  body:
+   { student_name: 'wzz',
+     student_type: '2',
+     course_id: 1,
+     adress: '澳洲',
+     student_id: '44' } }
+[2020-03-10T14:09:39.633] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'admin', password: '123456' } }
+[2020-03-10T15:08:59.452] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'admin', password: '123456' } }
+[2020-03-10T15:09:29.321] [INFO] user - { name: 'admin',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'sdsdsds',
+     student_type: '1',
+     course_id: 1,
+     adress: '新西兰' } }
+[2020-03-10T15:09:31.502] [INFO] user - { name: 'admin',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'sdsdsdsdsdsd',
+     student_type: '1',
+     course_id: 1,
+     adress: '新西兰' } }
+[2020-03-10T15:09:34.734] [INFO] user - { name: 'admin',
+  url: '/stu/addStudent',
+  body:
+   { student_name: '21212121',
+     student_type: '1',
+     course_id: 1,
+     adress: '新西兰' } }
+[2020-03-10T15:09:37.984] [INFO] user - { name: 'admin',
+  url: '/stu/addStudent',
+  body:
+   { student_name: '212121212123',
+     student_type: 1,
+     course_id: 1,
+     adress: '新西兰' } }
+[2020-03-10T15:09:53.320] [INFO] user - { name: 'admin',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'dsdsdsds',
+     student_type: '1',
+     course_id: 1,
+     adress: '国内' } }
+[2020-03-10T15:09:57.491] [INFO] user - { name: 'admin',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'dsdsdsdsdsdsd',
+     student_type: '1',
+     course_id: 1,
+     adress: '国内' } }
+[2020-03-10T15:10:25.467] [INFO] user - { name: 'admin',
+  url: '/stu/addStudent',
+  body:
+   { student_name: '12345',
+     student_type: '1',
+     course_id: 1,
+     adress: '新西兰' } }
+[2020-03-10T16:12:26.482] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'admin', password: '123456' } }
+[2020-03-10T18:03:48.516] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'admin', password: '123456' } }
+[2020-03-10T18:30:49.471] [INFO] user - { name: 'admin',
+  url: '/course/addCourse',
+  body:
+   { name: 'ewewewsdsds',
+     vid: 'wangzhzh',
+     homework: 'dsdsdsd',
+     typeId: '2' } }
+[2020-03-10T18:31:23.873] [INFO] user - { name: 'admin',
+  url: '/course/addCourse',
+  body:
+   { name: 'wo ceshide',
+     vid: 'testtdsdsd',
+     homework: '哈哈哈',
+     typeId: '6' } }
+[2020-03-10T18:32:40.807] [INFO] user - { name: 'admin',
+  url: '/course/addCourse',
+  body:
+   { name: 'dsdsd', vid: 'dsdsd', homework: 'dsdsds', typeId: '3' } }
+[2020-03-10T19:04:23.143] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'admin', password: '123456' } }
+[2020-03-10T19:10:05.331] [INFO] user - { name: 'admin',
+  url: '/course/updateCourse',
+  body:
+   { name: 'dsdsdsd11212',
+     vid: 'dsdsd',
+     homework: 'dsdsds',
+     typeId: '3',
+     id: '17' } }
+[2020-03-10T19:10:22.060] [INFO] user - { name: 'admin',
+  url: '/course/updateCourse',
+  body:
+   { name: 'web第2课',
+     vid: 'dsdsd',
+     homework: 'dsdsds',
+     typeId: '3',
+     id: '17' } }
+[2020-03-10T19:10:59.860] [INFO] user - { name: 'admin',
+  url: '/course/addCourse',
+  body:
+   { name: 'ewewewsdsds',
+     vid: 'dsdsd',
+     homework: 'dsds',
+     typeId: '2' } }
+[2020-03-10T19:11:02.659] [INFO] user - { name: 'admin',
+  url: '/course/addCourse',
+  body:
+   { name: 'ewewewsdsds',
+     vid: 'dsdsd',
+     homework: 'dsds',
+     typeId: '2' } }
+[2020-03-10T19:11:10.906] [INFO] user - { name: 'admin',
+  url: '/course/addCourse',
+  body:
+   { name: 'ewewewsdsds',
+     vid: 'dsdsd',
+     homework: 'dsds',
+     typeId: '2' } }
+[2020-03-10T19:11:28.987] [INFO] user - { name: 'admin',
+  url: '/course/addCourse',
+  body:
+   { name: 'ewewewsdsds',
+     vid: 'dsdsd',
+     homework: 'dsds',
+     typeId: '2' } }
+[2020-03-10T19:11:35.623] [INFO] user - { name: 'admin',
+  url: '/course/addCourse',
+  body:
+   { name: 'ewewewsdsds',
+     vid: 'dsdsd',
+     homework: 'dsdsdsds',
+     typeId: '2' } }
+[2020-03-10T19:11:46.195] [INFO] user - { name: 'admin',
+  url: '/course/addCourse',
+  body:
+   { name: 'dsd123456', vid: 'dsdsd', homework: 'dsds', typeId: '2' } }
+[2020-03-10T19:12:05.556] [INFO] user - { name: 'admin',
+  url: '/course/addCourse',
+  body:
+   { name: '1234567', vid: '2134', homework: '123456', typeId: '2' } }
+[2020-03-10T19:12:34.887] [INFO] user - { name: 'admin',
+  url: '/course/addCourse',
+  body:
+   { name: '1234567890',
+     vid: '23456789',
+     homework: '123456789',
+     typeId: '理论基础' } }
+[2020-03-10T19:12:59.302] [INFO] user - { name: 'admin',
+  url: '/course/addCourse',
+  body:
+   { name: '1234567890-',
+     vid: '12345678',
+     homework: '123456789',
+     typeId: '理论基础' } }
+[2020-03-10T19:14:10.128] [INFO] user - { name: 'admin',
+  url: '/course/addCourse',
+  body:
+   { name: '123456789',
+     vid: '123456789',
+     homework: '123456789',
+     typeId: '3' } }
+[2020-03-10T19:15:15.554] [INFO] user - { name: 'admin',
+  url: '/course/updateCourse',
+  body:
+   { name: '12345',
+     vid: '123456789',
+     homework: '123456789',
+     typeId: '3',
+     id: '27' } }
+[2020-03-10T19:18:29.805] [INFO] user - { name: 'admin',
+  url: '/course/updateCourse',
+  body:
+   { name: '123452',
+     vid: '123456789',
+     homework: '123456789',
+     typeId: '3',
+     id: '27' } }
+[2020-03-10T19:18:58.508] [INFO] user - { name: 'admin',
+  url: '/course/updateCourse',
+  body:
+   { name: '123456711',
+     vid: '2134',
+     homework: '123456',
+     typeId: '2',
+     id: '24' } }
+[2020-03-10T19:20:27.913] [INFO] user - { name: 'admin',
+  url: '/course/updateCourse',
+  body:
+   { name: '123456712',
+     vid: '2134',
+     homework: '123456',
+     typeId: '2',
+     id: '24' } }
+[2020-03-10T19:26:44.781] [INFO] user - { name: 'admin',
+  url: '/course/updateCourse',
+  body:
+   { name: '1234567',
+     vid: '2134',
+     homework: '123456',
+     typeId: '2',
+     id: '24' } }
+[2020-03-10T19:26:47.446] [INFO] user - { name: 'admin',
+  url: '/course/updateCourse',
+  body:
+   { name: '1234567',
+     vid: '2134',
+     homework: '123456',
+     typeId: '2',
+     id: '24' } }
+[2020-03-10T19:29:12.155] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'admin', password: '123456' } }
+[2020-03-10T20:24:07.275] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: '' } }
+[2020-03-10T20:35:13.371] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'admin', password: '123456' } }
+[2020-03-10T20:35:23.903] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: '1212' } }
+[2020-03-10T20:37:41.917] [INFO] user - { name: 'admin',
+  url: '/course/updateCourseType',
+  body: { name: 'web自动化测试1', id: 6 } }
+[2020-03-10T20:37:53.207] [INFO] user - { name: 'admin',
+  url: '/course/updateCourseType',
+  body: { name: 'web自动化测试', id: 6 } }
+[2020-03-10T20:38:00.349] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: 'web自动化测试1212' } }
+[2020-03-10T20:45:25.898] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: 'web自动化测试1212' } }
+[2020-03-10T20:46:04.457] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: 'web自动化测试1212' } }
+[2020-03-10T20:46:07.610] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: 'web自动化测试1212' } }
+[2020-03-10T20:50:50.117] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: 'web自动化测试1212' } }
+[2020-03-10T23:00:35.752] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'admin', password: '123456' } }
+[2020-03-10T23:00:46.062] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: 'adsad' } }
+[2020-03-10T23:02:41.944] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: 'adsad' } }
+[2020-03-10T23:02:46.585] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: 'adsad' } }
+[2020-03-10T23:02:47.257] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: 'adsad' } }
+[2020-03-10T23:03:16.190] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: 'adsad' } }
+[2020-03-10T23:06:58.678] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: 'adsad' } }
+[2020-03-10T23:09:01.160] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: '1212' } }
+[2020-03-10T23:09:17.005] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: '1212' } }
+[2020-03-10T23:09:39.765] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: '1212' } }
+[2020-03-10T23:09:52.063] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: '1212' } }
+[2020-03-10T23:09:55.528] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: '1212212' } }
+[2020-03-10T23:10:33.725] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: '1212212' } }
+[2020-03-10T23:13:19.333] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: '1212212' } }
+[2020-03-10T23:13:24.393] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: '1212212' } }
+[2020-03-10T23:17:16.586] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: '1212212' } }
+[2020-03-10T23:17:32.255] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: '12122121212121' } }
+[2020-03-10T23:22:38.016] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: '12122121212121' } }
+[2020-03-10T23:23:15.892] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: '2121212' } }
+[2020-03-10T23:23:33.344] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: '21212122121212' } }
+[2020-03-10T23:23:40.327] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: '2121212212121221212' } }
+[2020-03-10T23:23:54.330] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: '21212122121212212122121' } }
+[2020-03-10T23:25:38.487] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: '212121221212122121221211212' } }
+[2020-03-10T23:26:08.777] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: '1234' } }
+[2020-03-10T23:27:50.017] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: 'aaa' } }
+[2020-03-10T23:28:22.905] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: 'aaavv' } }
+[2020-03-10T23:28:39.089] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: 'aaavv21212' } }
+[2020-03-10T23:29:01.761] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: 'aaavv21212212121' } }
+[2020-03-10T23:29:16.559] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: 'aaavv212122121212121' } }
+[2020-03-10T23:29:33.645] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: 'aaavv21212212121212121212' } }
+[2020-03-10T23:30:16.804] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: '1212' } }
+[2020-03-10T23:31:32.828] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: '1212mmm' } }
+[2020-03-10T23:33:54.445] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: '1212mmm121' } }
+[2020-03-10T23:34:26.250] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: '1212mmm12112' } }
+[2020-03-10T23:37:27.072] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: 'ewewewcx' } }
+[2020-03-10T23:40:43.025] [INFO] user - { name: 'admin',
+  url: '/course/addCourseType',
+  body: { name: 'testtsss' } }
+[2020-03-10T23:41:07.555] [INFO] user - { name: 'admin',
+  url: '/course/updateCourseType',
+  body: { name: 'test1234', id: 21 } }
+[2020-03-10T23:42:20.451] [INFO] user - { name: 'admin',
+  url: '/course/updateCourseType',
+  body: { name: 'test12345', id: 21 } }
+[2020-03-10T23:42:33.168] [INFO] user - { name: 'admin',
+  url: '/course/updateCourseType',
+  body: { name: 'test1234', id: 21 } }

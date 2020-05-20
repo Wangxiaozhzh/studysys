@@ -1,0 +1,36 @@
+[2020-03-05T21:38:53.262] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '11' } }
+[2020-03-05T21:53:15.280] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-03-05T21:53:42.470] [INFO] user - { name: 'eric',
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-03-05T21:53:49.641] [INFO] user - { name: 'eric',
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-03-05T21:55:37.441] [INFO] user - { name: 'eric',
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-03-05T21:56:21.294] [INFO] user - { name: 'eric',
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '12345' } }
+[2020-03-05T21:56:23.863] [INFO] user - { name: 'eric',
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-03-05T22:20:29.267] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }
+[2020-03-05T22:42:05.095] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-03-05T09:42:05.067Z' } }
+[2020-03-05T22:42:09.688] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-02-05T09:42:04.930Z' } }
+[2020-03-05T22:42:14.651] [INFO] user - { name: 'eric',
+  url: '/inter/findInterviewsByMonth',
+  body: { interview_date: '2020-02-06T09:42:04.930Z' } }
+[2020-03-05T23:19:09.014] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'eric', password: '123456' } }

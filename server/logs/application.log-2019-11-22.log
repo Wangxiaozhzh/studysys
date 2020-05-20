@@ -1,0 +1,35 @@
+[2019-11-22T04:02:39.276] [ERROR] application - TypeError: Cannot read property 'token' of undefined
+    at loginCheck (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/middleware/loginCheck.js:14:26)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-11-22T04:02:40.435] [ERROR] application - TypeError: Cannot read property 'token' of undefined
+    at loginCheck (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/middleware/loginCheck.js:14:26)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-11-22T04:02:40.611] [ERROR] application - TypeError: Cannot read property 'token' of undefined
+    at loginCheck (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/middleware/loginCheck.js:14:26)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-11-22T04:03:10.793] [ERROR] application - TypeError: Cannot read property 'token' of undefined
+    at loginCheck (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/middleware/loginCheck.js:14:26)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-11-22T04:03:15.756] [ERROR] application - TypeError: Cannot read property 'token' of undefined
+    at loginCheck (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/middleware/loginCheck.js:14:26)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-11-22T04:03:15.943] [ERROR] application - TypeError: Cannot read property 'token' of undefined
+    at loginCheck (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/middleware/loginCheck.js:14:26)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-11-22T04:03:16.904] [ERROR] application - TypeError: Cannot read property 'token' of undefined
+    at loginCheck (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/middleware/loginCheck.js:14:26)
+    at dispatch (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)

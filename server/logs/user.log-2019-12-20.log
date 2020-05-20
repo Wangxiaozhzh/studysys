@@ -1,0 +1,73 @@
+[2019-12-20T21:59:54.171] [INFO] user - { name: undefined,
+  url: '/stu/stuLogin',
+  body: { name: 'wzz', password: '123456' } }
+[2019-12-20T22:31:00.209] [INFO] user - { name: 'wzz',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'admin',
+     student_type: '测试',
+     course_id: 1,
+     adress: '新西兰' } }
+[2019-12-20T22:31:04.366] [INFO] user - { name: 'wzz',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'wzz',
+     student_type: '测试',
+     course_id: 1,
+     adress: '新西兰' } }
+[2019-12-20T22:31:05.793] [INFO] user - { name: 'wzz',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'wzz',
+     student_type: '测试',
+     course_id: 1,
+     adress: '新西兰' } }
+[2019-12-20T22:31:24.564] [INFO] user - { name: 'wzz',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'wzz',
+     student_type: '测试',
+     course_id: 1,
+     adress: '新西兰' } }
+[2019-12-20T22:32:10.258] [INFO] user - { name: 'wzz',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'wzz',
+     student_type: '开发',
+     course_id: 1,
+     adress: '新西兰' } }
+[2019-12-20T22:32:56.707] [INFO] user - { name: 'wzz',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'wzz',
+     student_type: '1',
+     course_id: 1,
+     adress: '新西兰' } }
+[2019-12-20T22:33:15.527] [INFO] user - { name: 'wzz',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'test',
+     student_type: '测试',
+     course_id: 1,
+     adress: '国内' } }
+[2019-12-20T22:35:19.066] [INFO] user - { name: 'wzz',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'test',
+     student_type: '3',
+     course_id: 1,
+     adress: '新西兰' } }
+[2019-12-20T22:35:25.683] [INFO] user - { name: 'wzz',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'test',
+     student_type: '3',
+     course_id: 1,
+     adress: '国内' } }
+[2019-12-20T22:35:34.802] [INFO] user - { name: 'wzz',
+  url: '/stu/addStudent',
+  body:
+   { student_name: 'haha',
+     student_type: '3',
+     course_id: 1,
+     adress: '澳洲' } }

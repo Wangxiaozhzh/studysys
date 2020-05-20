@@ -1,0 +1,112 @@
+[2020-03-20T21:24:50.044] [ERROR] application - { Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: 'bootstrap03' for column 'course_id' at row 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:49:16)
+    at Object.updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:39:31)
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:120:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage:
+   'Incorrect integer value: \'bootstrap03\' for column \'course_id\' at row 1',
+  sqlState: 'HY000',
+  index: 0,
+  sql:
+   'update student set student_name = \'laji\', student_type = 2, course_id = \'bootstrap03\', update_date = now() , adress= \'国内\' where student_id = \'62\'' }
+[2020-03-20T21:25:10.731] [ERROR] application - { Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: 'bootstrap03' for column 'course_id' at row 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:49:16)
+    at Object.updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:39:31)
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:120:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage:
+   'Incorrect integer value: \'bootstrap03\' for column \'course_id\' at row 1',
+  sqlState: 'HY000',
+  index: 0,
+  sql:
+   'update student set student_name = \'laji\', student_type = 2, course_id = \'bootstrap03\', update_date = now() , adress= \'国内\' where student_id = \'62\'' }
+[2020-03-20T21:32:17.516] [ERROR] application - { Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: 'bootstrap03' for column 'course_id' at row 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:49:16)
+    at Object.updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:39:31)
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:120:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage:
+   'Incorrect integer value: \'bootstrap03\' for column \'course_id\' at row 1',
+  sqlState: 'HY000',
+  index: 0,
+  sql:
+   'update student set student_name = \'laji\', student_type = 2, course_id = \'bootstrap03\', update_date = now() , adress= \'国内\' where student_id = \'62\'' }
+[2020-03-20T21:33:05.966] [ERROR] application - { Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: 'bootstrap03' for column 'course_id' at row 1
+    at Query.Sequence._packetToError (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:31:8)
+    at new Promise (<anonymous>)
+    at query (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/mysql.js:30:9)
+    at Object.updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/model/student.js:49:16)
+    at Object.updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/service/student.js:39:31)
+    at updateStu (/Users/qinggchu/Desktop/Wangzhzh/reactpo/server/app/controller/student.js:120:35)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage:
+   'Incorrect integer value: \'bootstrap03\' for column \'course_id\' at row 1',
+  sqlState: 'HY000',
+  index: 0,
+  sql:
+   'update student set student_name = \'laji\', student_type = 2, course_id = \'bootstrap03\', update_date = now() , adress= \'国内\' where student_id = \'62\'' }
