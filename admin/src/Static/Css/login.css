@@ -1,0 +1,22 @@
+body{
+    background-color: #f0f0f0;
+}
+.loginWrap{
+    height: 100vh;
+    width: 100%;
+    background: #769ede;
+    opacity: .7;
+    overflow: hidden;
+}
+.login-div{
+    margin: 200px auto;
+    width: 400px;
+}
+.loginWrap .ant-card {
+    background: #769ede;
+}
+.loginWrap .ant-card .ant-card-head-title{
+    color: #ffff;
+    font-weight: bold;
+    font-size: 20px;
+}

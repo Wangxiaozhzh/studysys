@@ -1,0 +1,18 @@
+.divWrap{
+    background: rgba(130, 222, 251, 0.2);
+    border-radius: 20px;
+    padding: 50px;
+    margin: 20px;
+    overflow: hidden;
+}
+.title{
+    margin-top: 15px;
+    font-size: 20px;
+}
+.num{
+    font-size: 50px;
+    font-weight: bold;
+}
+.rencentInterview p{
+    font-size: 16px;
+}
